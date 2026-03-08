@@ -3,10 +3,10 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-"scripts": {
-  "test": "jest --coverage",
-  "lint": "eslint ."
-},
+  "scripts": {
+    "test": "jest --coverage",
+    "lint": "eslint ."
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/nando-hn/mi-primer-pipeline.git"
